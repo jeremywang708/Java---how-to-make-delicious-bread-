@@ -1,21 +1,9 @@
-/**
- * File name: Lab5.java
- * Author: Yun Wang, ID# 041069121
- * Course: CST8132 – OOP, Lab Section: 302
- * Lab: 05
- * Date: 2022-11-29
- * Professor: Gustavo Adami
- */
-
 import java.util.*;
 import java.util.concurrent.TimeUnit;
 
 /**
  * The Lab5 class is to run the method menu() and execute different operations based on different user input.
  * @author Jeremywang
- * @version This is the 11th version
- * @see class Recipe, class Recipemanager and class RecipeTemplate
- * @since version 11
  */
 @SuppressWarnings("javadoc")
 public class Lab5 {
