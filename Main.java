@@ -6,7 +6,7 @@ import java.util.concurrent.TimeUnit;
  * @author Jeremywang
  */
 @SuppressWarnings("javadoc")
-public class Lab5 {
+public class Main {
 
 	static RecipeManager manager = new RecipeManager();
 	static boolean[] bread = new boolean[manager.NUMRECIPES];
