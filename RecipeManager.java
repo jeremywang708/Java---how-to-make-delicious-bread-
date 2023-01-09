@@ -1,11 +1,8 @@
 import java.util.*;
 
 /**
- * The class RecipeManager contains a few methods to be called in class lab5.
+ * The class RecipeManager contains a few methods to be called in class Main.
  * @author Jeremywang
- * @version 11th
- * @see class Recipemanager
- * @since 11th
  */
 @SuppressWarnings("javadoc")
 public class RecipeManager extends RecipeTemplate {
