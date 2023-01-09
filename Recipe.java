@@ -1,9 +1,6 @@
 /**
  * a plain Java class. It has getters and setters for each ingredient in the ingredient list: yeast, flour, sugar, eggs, and butter
  * @author Jeremywang
- * @version 11th
- * @see class Recipemanager
- * @since 11th
  */
 @SuppressWarnings("javadoc")
 public class Recipe {
