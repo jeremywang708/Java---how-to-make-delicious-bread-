@@ -1,9 +1,6 @@
 /* Abstract class Recipe Template contains all the data required to generate some bread recipe objects.
    Remember to inherit this with RecipeManager.
-   
-   You don't need to comment this class.  This is my mess.
-   
-   -Surbhi B. */
+*/
 
 public abstract class RecipeTemplate
 {
